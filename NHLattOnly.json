@@ -1,0 +1,2502 @@
+[
+    {
+        "2001": [
+            {
+                "team": "Montreal",
+                "avg_att": 20105
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19995
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19575
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 19519
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19257
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18328
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18200
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18007
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 17839
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 17793
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17468
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 17457
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 17026
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17001
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 16622
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 16277
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16057
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 15767
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15642
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 15611
+            },
+            {
+                "team": "Washington",
+                "avg_att": 15534
+            },
+            {
+                "team": "Boston",
+                "avg_att": 15432
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15262
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 14996
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 14906
+            },
+            {
+                "team": "Florida",
+                "avg_att": 14679
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 14224
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 13499
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 13355
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 11332
+            }
+        ]
+    },
+    {
+        "2002": [
+            {
+                "team": "Detroit",
+                "avg_att": 20058
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 20027
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19569
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19279
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18968
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18532
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18455
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 18136
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18038
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18007
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 17712
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17422
+            },
+            {
+                "team": "Washington",
+                "avg_att": 17341
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 17206
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 16919
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16756
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16592
+            },
+            {
+                "team": "Florida",
+                "avg_att": 16074
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15925
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 15722
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 15718
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 15649
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 15568
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 15508
+            },
+            {
+                "team": "Boston",
+                "avg_att": 15403
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 14788
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 14548
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 13668
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13165
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 12002
+            }
+        ]
+    },
+    {
+        "2003": [
+            {
+                "team": "Montreal",
+                "avg_att": 20672
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20058
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19325
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19240
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18570
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18532
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18500
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18396
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18148
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18007
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 17744
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 17569
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17350
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 17198
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16657
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 16545
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 16239
+            },
+            {
+                "team": "Washington",
+                "avg_att": 15787
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 15682
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15428
+            },
+            {
+                "team": "Boston",
+                "avg_att": 15029
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 14930
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14858
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 14794
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 14750
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 13988
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 13776
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 13476
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13229
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 13228
+            }
+        ]
+    },
+    {
+        "2004": [
+            {
+                "team": "Montreal",
+                "avg_att": 20555
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20066
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19376
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19375
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18630
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18560
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18530
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18355
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18080
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18007
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 17889
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 17820
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 17758
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 17677
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 17369
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 16579
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15936
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 15835
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 15467
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 15290
+            },
+            {
+                "team": "Boston",
+                "avg_att": 15133
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15121
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15059
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 14987
+            },
+            {
+                "team": "Washington",
+                "avg_att": 14720
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13693
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 13253
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 13157
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 12330
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 11877
+            }
+        ]
+    },
+    {
+        "2006": [
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 20509
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20064
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19653
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 19474
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19408
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18630
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18575
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18142
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18007
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 17839
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17828
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 16886
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16832
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 16831
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 16796
+            },
+            {
+                "team": "Boston",
+                "avg_att": 16211
+            },
+            {
+                "team": "Florida",
+                "avg_att": 16014
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 15804
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 15596
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 15582
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15550
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 15131
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 14428
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14230
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 14213
+            },
+            {
+                "team": "Washington",
+                "avg_att": 13905
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 13318
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12609
+            }
+        ]
+    },
+    {
+        "2007": [
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20066
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19876
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19487
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 19372
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19282
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18690
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18630
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18543
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18200
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17914
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 17612
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17422
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 17386
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16859
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 16424
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 16401
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16389
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 16240
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15370
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 15259
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 14988
+            },
+            {
+                "team": "Boston",
+                "avg_att": 14764
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14176
+            },
+            {
+                "team": "Washington",
+                "avg_att": 13929
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12886
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 12727
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 12520
+            }
+        ]
+    },
+    {
+        "2008": [
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 19950
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 19821
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19556
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19434
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 18870
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 18692
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18630
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18568
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18200
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18038
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 17610
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17411
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 17193
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 17076
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 16842
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 16814
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16633
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16606
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15831
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15564
+            },
+            {
+                "team": "Washington",
+                "avg_att": 15472
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15436
+            },
+            {
+                "team": "Boston",
+                "avg_att": 15384
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 14910
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 14823
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 14820
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13640
+            }
+        ]
+    },
+    {
+        "2009": [
+            {
+                "team": "Chicago",
+                "avg_att": 22247
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19865
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19545
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19312
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18949
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18630
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18568
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18554
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18531
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18172
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18097
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17680
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17488
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17039
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16990
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 16975
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16572
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 16497
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16488
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15790
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15621
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 15543
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 15429
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 15010
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 14875
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 14626
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13773
+            }
+        ]
+    },
+    {
+        "2010": [
+            {
+                "team": "Chicago",
+                "avg_att": 21356
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19546
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19535
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19260
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18883
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18810
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18529
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18415
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18277
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18269
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18076
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17558
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17388
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 17313
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17215
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 17078
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15535
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 15497
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 15416
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 15240
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 15168
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15146
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 14979
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 13947
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 13607
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12735
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 11989
+            }
+        ]
+    },
+    {
+        "2011": [
+            {
+                "team": "Chicago",
+                "avg_att": 21423
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19715
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19680
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19354
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 19150
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18860
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18452
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18397
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18378
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18240
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18108
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18083
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18012
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17562
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 17268
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16415
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16142
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15685
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 15073
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 14820
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14775
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 14738
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 13658
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 13469
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 12188
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 11059
+            }
+        ]
+    },
+    {
+        "2012": [
+            {
+                "team": "Chicago",
+                "avg_att": 21533
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 20433
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20114
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19506
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 19356
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18884
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18809
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18566
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18550
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18506
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 18468
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18191
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 17920
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 17772
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17564
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17562
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16690
+            },
+            {
+                "team": "Florida",
+                "avg_att": 16628
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16042
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 15498
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15396
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15004
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 14760
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 14660
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 14226
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13191
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 12420
+            }
+        ]
+    },
+    {
+        "2013": [
+            {
+                "team": "Chicago",
+                "avg_att": 21775
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20066
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19786
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19426
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 19408
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19289
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19055
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18970
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18947
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18794
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18648
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18178
+            },
+            {
+                "team": "Washington",
+                "avg_att": 17734
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17561
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 17558
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 17263
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 17200
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 17114
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17063
+            },
+            {
+                "team": "Florida",
+                "avg_att": 16991
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16974
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 15887
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 15444
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15004
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 14564
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13923
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13306
+            }
+        ]
+    },
+    {
+        "2014": [
+            {
+                "team": "Chicago",
+                "avg_att": 22623
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 22149
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21273
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19839
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 19770
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19446
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19302
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 19017
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18618
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 18612
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18579
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18505
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18108
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18054
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18006
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17133
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 17025
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16828
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16600
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16469
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 16295
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 15483
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15257
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15004
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 14740
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 14698
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 14658
+            },
+            {
+                "team": "Florida",
+                "avg_att": 14177
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13775
+            }
+        ]
+    },
+    {
+        "2015": [
+            {
+                "team": "Chicago",
+                "avg_att": 21769
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21286
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20027
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19270
+            },
+            {
+                "team": "Washington",
+                "avg_att": 19099
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19097
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19062
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 19023
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 18823
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18710
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 18707
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18617
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18580
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18545
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18265
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18246
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18006
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17350
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16874
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16854
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16839
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 16176
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 15511
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 15334
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15189
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15037
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13345
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 12594
+            },
+            {
+                "team": "Florida",
+                "avg_att": 11265
+            }
+        ]
+    },
+    {
+        "2016": [
+            {
+                "team": "Chicago",
+                "avg_att": 21859
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21288
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20027
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 19827
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19227
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19158
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 19145
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19092
+            },
+            {
+                "team": "Boston",
+                "avg_att": 18776
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18590
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18550
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18510
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18450
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18431
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18376
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18274
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 18084
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18006
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 17032
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 16971
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 16841
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 16746
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16336
+            },
+            {
+                "team": "Florida",
+                "avg_att": 15384
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15294
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15073
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 14665
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13626
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13433
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 12203
+            }
+        ]
+    },
+    {
+        "2017": [
+            {
+                "team": "Chicago",
+                "avg_att": 21751
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21288
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 20027
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 19762
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19744
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19644
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 19539
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19092
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 19070
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 18727
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18509
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18506
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 18347
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18240
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18141
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18101
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 18020
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17508
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 17159
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 16744
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 15942
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 15857
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15731
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 14835
+            },
+            {
+                "team": "Florida",
+                "avg_att": 14620
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14567
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 13101
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13094
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 11776
+            }
+        ]
+    },
+    {
+        "2018": [
+            {
+                "team": "Chicago",
+                "avg_att": 21653
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21299
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 19517
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19515
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19187
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19092
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 19036
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 18905
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18774
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18579
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 18563
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18356
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 18347
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18240
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18110
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18078
+            },
+            {
+                "team": "Vegas",
+                "avg_att": 18042
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 17851
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17365
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 17307
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 16659
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16635
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 15829
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 15586
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15321
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 15200
+            },
+            {
+                "team": "Florida",
+                "avg_att": 13851
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 13320
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13040
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12002
+            }
+        ]
+    },
+    {
+        "2019": [
+            {
+                "team": "Chicago",
+                "avg_att": 22734
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21046
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 20371
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19276
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 19120
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19092
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18907
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18565
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18508
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 18501
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 18347
+            },
+            {
+                "team": "Vegas",
+                "avg_att": 18318
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 18178
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18022
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 18000
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 17908
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17565
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 17445
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 17361
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 17318
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 17266
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 17132
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 16814
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 16658
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15276
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14834
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 14553
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 14322
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 13989
+            },
+            {
+                "team": "Florida",
+                "avg_att": 13261
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12442
+            }
+        ]
+    },
+    {
+        "2020": [
+            {
+                "team": "Chicago",
+                "avg_att": 21441
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 21085
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 20326
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 19301
+            },
+            {
+                "team": "Tampa Bay",
+                "avg_att": 18922
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 18751
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 18716
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 18708
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 18679
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18570
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 18537
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 18390
+            },
+            {
+                "team": "Vegas",
+                "avg_att": 18310
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 18096
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17681
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 17533
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 17472
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 17407
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 17206
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 17167
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 16916
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16905
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 16898
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 16427
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 15846
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 15794
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 14899
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 14605
+            },
+            {
+                "team": "Florida",
+                "avg_att": 14104
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 12810
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 12618
+            }
+        ]
+    },
+    {
+        "2022": [
+            {
+                "team": "Tampa Bay",
+                "avg_att": 19092
+            },
+            {
+                "team": "Minnesota",
+                "avg_att": 18596
+            },
+            {
+                "team": "Washington",
+                "avg_att": 18573
+            },
+            {
+                "team": "Vegas",
+                "avg_att": 18071
+            },
+            {
+                "team": "Dallas",
+                "avg_att": 17986
+            },
+            {
+                "team": "Chicago",
+                "avg_att": 17910
+            },
+            {
+                "team": "Boston",
+                "avg_att": 17850
+            },
+            {
+                "team": "St. Louis",
+                "avg_att": 17534
+            },
+            {
+                "team": "Pittsburgh",
+                "avg_att": 17394
+            },
+            {
+                "team": "Colorado",
+                "avg_att": 17208
+            },
+            {
+                "team": "Seattle",
+                "avg_att": 17151
+            },
+            {
+                "team": "Nashville",
+                "avg_att": 17144
+            },
+            {
+                "team": "NY Islanders",
+                "avg_att": 17085
+            },
+            {
+                "team": "Detroit",
+                "avg_att": 16950
+            },
+            {
+                "team": "Carolina",
+                "avg_att": 16855
+            },
+            {
+                "team": "Philadelphia",
+                "avg_att": 16741
+            },
+            {
+                "team": "NY Rangers",
+                "avg_att": 16365
+            },
+            {
+                "team": "Vancouver",
+                "avg_att": 16018
+            },
+            {
+                "team": "Columbus",
+                "avg_att": 15815
+            },
+            {
+                "team": "Toronto",
+                "avg_att": 14609
+            },
+            {
+                "team": "Los Angeles",
+                "avg_att": 14377
+            },
+            {
+                "team": "Edmonton",
+                "avg_att": 14014
+            },
+            {
+                "team": "Florida",
+                "avg_att": 14002
+            },
+            {
+                "team": "Montreal",
+                "avg_att": 13059
+            },
+            {
+                "team": "Anaheim",
+                "avg_att": 12774
+            },
+            {
+                "team": "New Jersey",
+                "avg_att": 12668
+            },
+            {
+                "team": "Calgary",
+                "avg_att": 12625
+            },
+            {
+                "team": "San Jose",
+                "avg_att": 12143
+            },
+            {
+                "team": "Winnipeg",
+                "avg_att": 12103
+            },
+            {
+                "team": "Arizona",
+                "avg_att": 11611
+            },
+            {
+                "team": "Buffalo",
+                "avg_att": 8619
+            },
+            {
+                "team": "Ottawa",
+                "avg_att": 7136
+            }
+        ]
+    }
+]
