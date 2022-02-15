@@ -1,0 +1,78 @@
+Sub TeamName()
+
+Dim lastRow As Long
+lastRow = Cells(Rows.Count, 1).End(xlUp).Row
+
+For i = 2 To lastRow
+
+    If Cells(i, 1).Value Like "*Buffalo*" Then
+        Cells(i, 1).Value = "Buffalo"
+    ElseIf Cells(i, 1).Value Like "*Colorado*" Then
+        Cells(i, 1).Value = "Colorado"
+    ElseIf Cells(i, 1).Value Like "*Florida*" Then
+        Cells(i, 1).Value = "Florida"
+    ElseIf Cells(i, 1).Value Like "*Tampa*" Then
+        Cells(i, 1).Value = "Tampa Bay"
+    ElseIf Cells(i, 1).Value Like "*Pittsburgh*" Then
+        Cells(i, 1).Value = "Pittsburgh"
+    ElseIf Cells(i, 1).Value Like "*Carolina*" Then
+        Cells(i, 1).Value = "Carolina"
+    ElseIf Cells(i, 1).Value Like "*Rangers*" Then
+        Cells(i, 1).Value = "NY Rangers"
+    ElseIf Cells(i, 1).Value Like "*Toronto*" Then
+        Cells(i, 1).Value = "Toronto "
+    ElseIf Cells(i, 1).Value Like "*Minnesota*" Then
+        Cells(i, 1).Value = "Minnesota"
+    ElseIf Cells(i, 1).Value Like "*Washington*" Then
+        Cells(i, 1).Value = "Washington"
+    ElseIf Cells(i, 1).Value Like "*Nashville*" Then
+        Cells(i, 1).Value = "Nashville"
+    ElseIf Cells(i, 1).Value Like "*Blues*" Then
+        Cells(i, 1).Value = "St. Louis"
+    ElseIf Cells(i, 1).Value Like "*Vegas*" Then
+        Cells(i, 1).Value = "Vegas"
+    ElseIf Cells(i, 1).Value Like "*Calgary*" Then
+        Cells(i, 1).Value = "Calgary"
+    ElseIf Cells(i, 1).Value Like "*Boston*" Then
+        Cells(i, 1).Value = "Boston"
+    ElseIf Cells(i, 1).Value Like "*Kings*" Then
+        Cells(i, 1).Value = "Los Angeles"
+    ElseIf Cells(i, 1).Value Like "*Anaheim*" Then
+        Cells(i, 1).Value = "Anaheim"
+    ElseIf Cells(i, 1).Value Like "*Dallas*" Then
+        Cells(i, 1).Value = "Dallas"
+    ElseIf Cells(i, 1).Value Like "*Edmonton*" Then
+        Cells(i, 1).Value = "Edmonton"
+    ElseIf Cells(i, 1).Value Like "*Detroit*" Then
+        Cells(i, 1).Value = "Detroit"
+    ElseIf Cells(i, 1).Value Like "*Vancouver*" Then
+        Cells(i, 1).Value = "Vancouver"
+    ElseIf Cells(i, 1).Value Like "*Winnipeg*" Then
+        Cells(i, 1).Value = "Winnipeg"
+    ElseIf Cells(i, 1).Value Like "*Sharks*" Then
+        Cells(i, 1).Value = "San Jose"
+    ElseIf Cells(i, 1).Value Like "*Columbus*" Then
+        Cells(i, 1).Value = "Columbus"
+    ElseIf Cells(i, 1).Value Like "*Chicago*" Then
+        Cells(i, 1).Value = "Chicago"
+    ElseIf Cells(i, 1).Value Like "*Islanders*" Then
+        Cells(i, 1).Value = "NY Islanders"
+    ElseIf Cells(i, 1).Value Like "*Devils*" Then
+        Cells(i, 1).Value = "New Jersey"
+    ElseIf Cells(i, 1).Value Like "*Ottawa*" Then
+        Cells(i, 1).Value = "Ottawa"
+    ElseIf Cells(i, 1).Value Like "*Flyers*" Then
+        Cells(i, 1).Value = "Philadelphia"
+    ElseIf Cells(i, 1).Value Like "*Seattle*" Then
+        Cells(i, 1).Value = "Seattle"
+    ElseIf Cells(i, 1).Value Like "*Arizona*" Then
+        Cells(i, 1).Value = "Arizona"
+    ElseIf Cells(i, 1).Value Like "*Montreal*" Then
+        Cells(i, 1).Value = "Montreal"
+        
+    End If
+Next i
+
+
+End Sub
+
